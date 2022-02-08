@@ -42,9 +42,9 @@ Describe any challenges encountered while building the app.
 ### App Walkthrough GIF
 
 
-<img src="https://i.imgur.com/uciBDJV.gif" width=250><br>
+<img src="https://i.imgur.com/aAKW0oE.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
 
-The web link for the superhero grid constantly did not work. I spent hours trying to fix non existant problems all caused by the weblink. One of my professors even mentioned how I had done everything correct and he did not know why it was not working. I am submitting late because of these problems. 
+The web link for the superhero grid constantly did not work. I spent hours trying to fix non existant problems all caused by the weblink. One of my professors even mentioned how I had done everything correct and he did not know why it was not working. I also had problems using my gif on discord. Ikept having to reedit the gif because it was too long to be shown on github. I am submitting late because of these problems. 
